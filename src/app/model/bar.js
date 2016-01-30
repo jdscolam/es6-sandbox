@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 import {dependencies} from 'needlepoint'
 import {Foo} from './foo'
 
