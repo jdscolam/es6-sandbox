@@ -1,6 +1,8 @@
 # es6-sandbox
 A quick place to mess around with es6 stuff.
 
+Great news!  This is now connected to our #Slack!
+
 Currently we have the following:
 - Transpiling to ES5 "dist" folder (WebStorm File-Watcher based)
 - DI/IoC
