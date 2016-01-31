@@ -1,0 +1,10 @@
+'use strict';
+
+var _needlepoint = require('needlepoint');
+
+var _bar = require('./app/model/bar');
+
+var bar = _needlepoint.container.resolve(_bar.Bar);
+
+console.log(bar.foo.data);
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3NyYy9pbmRleC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7Ozs7O0FBS0EsSUFBSSxNQUFNLHVCQUFVLE9BQVYsVUFBTjs7QUFFSixRQUFRLEdBQVIsQ0FBWSxJQUFJLEdBQUosQ0FBUSxJQUFSLENBQVoiLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VzQ29udGVudCI6WyIndXNlIHN0cmljdCc7XHJcblxyXG5pbXBvcnQge2NvbnRhaW5lcn0gZnJvbSAnbmVlZGxlcG9pbnQnXHJcbmltcG9ydCB7QmFyfSBmcm9tICcuL2FwcC9tb2RlbC9iYXInXHJcblxyXG52YXIgYmFyID0gY29udGFpbmVyLnJlc29sdmUoQmFyKTtcclxuXHJcbmNvbnNvbGUubG9nKGJhci5mb28uZGF0YSk7Il19
