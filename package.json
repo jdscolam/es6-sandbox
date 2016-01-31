@@ -18,6 +18,7 @@
     "babel-preset-stage-0": "^6.3.13",
     "babel-register": "^6.4.3",
     "chai": "^3.5.0",
+    "gulp": "^3.9.0",
     "mocha": "^2.4.5"
   }
 }
