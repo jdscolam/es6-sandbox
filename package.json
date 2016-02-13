@@ -2,7 +2,7 @@
   "name": "npt-test",
   "version": "1.0.0",
   "description": "",
-  "main": "index-compiled.js",
+  "main": "index.js",
   "scripts": {
     "test": "mocha --compilers js:babel-register src/**/*.spec.js"
   },
@@ -19,6 +19,7 @@
     "babel-register": "^6.4.3",
     "chai": "^3.5.0",
     "gulp": "^3.9.0",
-    "mocha": "^2.4.5"
+    "mocha": "^2.4.5",
+    "needlepoint": "^1.0.5"
   }
 }
